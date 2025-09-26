@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LearnRedis", "LearnRedis\Le
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JSONRedis", "JSONRedis\JSONRedis.csproj", "{D75CADE3-433A-4ADE-B92F-6E76F108C225}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "List-Redis", "List-Redis\List-Redis.csproj", "{9E7617DB-80DB-4E22-BE17-BFE9F39AB24D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{D75CADE3-433A-4ADE-B92F-6E76F108C225}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D75CADE3-433A-4ADE-B92F-6E76F108C225}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D75CADE3-433A-4ADE-B92F-6E76F108C225}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9E7617DB-80DB-4E22-BE17-BFE9F39AB24D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E7617DB-80DB-4E22-BE17-BFE9F39AB24D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E7617DB-80DB-4E22-BE17-BFE9F39AB24D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E7617DB-80DB-4E22-BE17-BFE9F39AB24D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
