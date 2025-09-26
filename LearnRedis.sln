@@ -1,9 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.14.36310.24 d17.14
+VisualStudioVersion = 17.14.36310.24
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LearnRedis", "LearnRedis\LearnRedis.csproj", "{5BFDE3CD-E412-4DED-9A2C-DED35C4389AD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JSONRedis", "JSONRedis\JSONRedis.csproj", "{D75CADE3-433A-4ADE-B92F-6E76F108C225}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{5BFDE3CD-E412-4DED-9A2C-DED35C4389AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5BFDE3CD-E412-4DED-9A2C-DED35C4389AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5BFDE3CD-E412-4DED-9A2C-DED35C4389AD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D75CADE3-433A-4ADE-B92F-6E76F108C225}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D75CADE3-433A-4ADE-B92F-6E76F108C225}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D75CADE3-433A-4ADE-B92F-6E76F108C225}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D75CADE3-433A-4ADE-B92F-6E76F108C225}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

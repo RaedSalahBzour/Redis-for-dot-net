@@ -1,6 +1,4 @@
 ﻿using StackExchange.Redis;
-using System;
-
 
 
 // Connect to localhost on port 6379.
