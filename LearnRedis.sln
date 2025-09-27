@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SortedSet-redis", "SortedSe
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GeoSpatial-redis", "GeoSpatial-redis\GeoSpatial-redis.csproj", "{75B0E435-049F-4C01-9D20-41814483047C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BitMap-redis", "BitMap-redis\BitMap-redis.csproj", "{D0A9CAA6-1E37-446E-B649-A0FE3D454077}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{75B0E435-049F-4C01-9D20-41814483047C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{75B0E435-049F-4C01-9D20-41814483047C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{75B0E435-049F-4C01-9D20-41814483047C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D0A9CAA6-1E37-446E-B649-A0FE3D454077}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D0A9CAA6-1E37-446E-B649-A0FE3D454077}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D0A9CAA6-1E37-446E-B649-A0FE3D454077}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D0A9CAA6-1E37-446E-B649-A0FE3D454077}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
