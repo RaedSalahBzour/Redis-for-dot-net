@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "List-Redis", "List-Redis\Li
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hashes-Redis", "Hashes-Redis\Hashes-Redis.csproj", "{15DE40A5-6156-4D7B-BFDF-24CA82B50B0A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SortedSet-redis", "SortedSet-redis\SortedSet-redis.csproj", "{B8A145A1-F1EF-4040-8178-9A326AFE8B55}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{15DE40A5-6156-4D7B-BFDF-24CA82B50B0A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{15DE40A5-6156-4D7B-BFDF-24CA82B50B0A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{15DE40A5-6156-4D7B-BFDF-24CA82B50B0A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B8A145A1-F1EF-4040-8178-9A326AFE8B55}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8A145A1-F1EF-4040-8178-9A326AFE8B55}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8A145A1-F1EF-4040-8178-9A326AFE8B55}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8A145A1-F1EF-4040-8178-9A326AFE8B55}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
